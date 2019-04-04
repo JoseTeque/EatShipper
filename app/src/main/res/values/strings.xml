@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EatShipper</string>
+    <string name="Phone">Phone</string>
+    <string name="Password">Password</string>
+    <string name="btnSignIn">Sign In</string>
+    <string name="IDname">Name</string>
+    <string name="txtDate">Date</string>
+    <string name="txtStatus">Status</string>
+    <string name="txtPhone">Phone</string>
+    <string name="txtAddress">Address</string>
+    <string name="txtbtnShipper">Shipper</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="btnCall">CALL</string>
+    <string name="btnShipped">SHIPPED</string>
+</resources>
